@@ -1,0 +1,49 @@
+Training Metrics Log
+==================================================
+Epoch: MAE, MSE, Loss
+--------------------------------------------------
+Epoch   1: MAE=  71.7, MSE=  95.2, Loss=0.00007472
+Epoch   2: MAE=  76.0, MSE=  96.4, Loss=0.00007453
+Epoch   3: MAE=  73.8, MSE=  95.4, Loss=0.00007434
+Epoch   4: MAE=  71.6, MSE=  95.2, Loss=0.00007399
+Epoch   5: MAE=  65.1, MSE=  81.5, Loss=0.00004027
+Epoch   6: MAE=  49.4, MSE=  74.8, Loss=0.00003520
+Epoch   7: MAE=  40.1, MSE=  65.4, Loss=0.00003000
+Epoch   8: MAE=  62.3, MSE=  87.9, Loss=0.00002665
+Epoch   9: MAE=  24.6, MSE=  40.7, Loss=0.00002548
+Epoch  10: MAE=  23.6, MSE=  38.2, Loss=0.00002394
+Epoch  11: MAE=  67.0, MSE=  87.2, Loss=0.00002300
+Epoch  12: MAE=  59.9, MSE=  79.8, Loss=0.00002286
+Epoch  13: MAE=  22.6, MSE=  36.8, Loss=0.00002141
+Epoch  14: MAE=  23.2, MSE=  35.3, Loss=0.00002021
+Epoch  15: MAE=  25.7, MSE=  42.8, Loss=0.00001965
+Epoch  16: MAE=  28.1, MSE=  42.4, Loss=0.00001925
+Epoch  17: MAE=  24.0, MSE=  35.8, Loss=0.00001913
+Epoch  18: MAE=  34.5, MSE=  48.7, Loss=0.00001866
+Epoch  19: MAE=  32.4, MSE=  46.7, Loss=0.00001787
+Epoch  20: MAE=  25.7, MSE=  37.4, Loss=0.00001703
+Epoch  21: MAE=  33.4, MSE=  47.1, Loss=0.00001565
+Epoch  22: MAE=  46.4, MSE=  58.0, Loss=0.00001496
+Epoch  23: MAE=  19.6, MSE=  28.7, Loss=0.00001437
+Epoch  24: MAE=  26.2, MSE=  37.0, Loss=0.00001409
+Epoch  25: MAE=  15.4, MSE=  25.2, Loss=0.00001378
+Epoch  26: MAE=  29.6, MSE=  39.1, Loss=0.00001383
+Epoch  27: MAE=  20.4, MSE=  28.1, Loss=0.00001334
+Epoch  28: MAE=  19.9, MSE=  27.4, Loss=0.00001319
+Epoch  29: MAE=  23.9, MSE=  34.7, Loss=0.00001315
+Epoch  30: MAE=  31.0, MSE=  38.6, Loss=0.00001304
+Epoch  31: MAE=  18.9, MSE=  24.6, Loss=0.00001313
+Epoch  32: MAE=  21.8, MSE=  28.8, Loss=0.00001292
+Epoch  33: MAE=  17.4, MSE=  25.0, Loss=0.00001302
+Epoch  34: MAE=  19.2, MSE=  24.7, Loss=0.00001327
+Epoch  35: MAE=  15.7, MSE=  22.5, Loss=0.00001283
+Epoch  36: MAE=  32.0, MSE=  40.1, Loss=0.00001290
+Epoch  37: MAE=  25.1, MSE=  33.5, Loss=0.00001291
+Epoch  38: MAE=  34.0, MSE=  53.2, Loss=0.00001336
+Epoch  39: MAE=  16.4, MSE=  21.7, Loss=0.00001288
+Epoch  40: MAE=  18.3, MSE=  22.9, Loss=0.00001284
+Epoch  41: MAE=  18.8, MSE=  28.6, Loss=0.00001290
+Epoch  42: MAE=  15.7, MSE=  23.1, Loss=0.00001313
+Epoch  43: MAE=  17.4, MSE=  25.1, Loss=0.00001265
+Epoch  44: MAE=  29.8, MSE=  49.1, Loss=0.00001310
+Epoch  45: MAE=  46.7, MSE=  56.5, Loss=0.00001322

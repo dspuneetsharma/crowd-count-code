@@ -1,0 +1,4 @@
+Training Summary:
+Best MAE: 8.639138
+Best RMSE: 13.018617
+Total Epochs: 1000

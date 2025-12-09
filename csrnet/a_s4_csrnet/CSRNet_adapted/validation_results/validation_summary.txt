@@ -1,0 +1,15 @@
+CSRNet Validation Summary
+==============================
+Model File: task1model_best.pth.tar
+Training Epoch: 48
+Best Training MAE: 67.945999
+Total Test Images: 182
+Final Test MAE: 68.057953
+MAE Statistics:
+  Mean: 68.057968
+  Std:  80.112244
+  Min:  0.374146
+  Max:  572.156921
+
+Best Prediction: IMG_11.jpg (MAE: 0.374146)
+Worst Prediction: IMG_8.jpg (MAE: 572.156921

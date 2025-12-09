@@ -1,0 +1,62 @@
+Top 10 Worst Performing Images (Highest MAE)
+==================================================
+1. IMG_107.jpg
+   MAE: 29.540
+   Predicted Count: 505.8
+   Ground Truth Count: 476.3
+   Original Count: 476
+
+2. IMG_100.jpg
+   MAE: 29.807
+   Predicted Count: 128.1
+   Ground Truth Count: 158.0
+   Original Count: 158
+
+3. IMG_257.jpg
+   MAE: 31.380
+   Predicted Count: 163.4
+   Ground Truth Count: 132.0
+   Original Count: 132
+
+4. IMG_152.jpg
+   MAE: 32.840
+   Predicted Count: 538.4
+   Ground Truth Count: 505.5
+   Original Count: 505
+
+5. IMG_68.jpg
+   MAE: 34.916
+   Predicted Count: 94.0
+   Ground Truth Count: 59.0
+   Original Count: 59
+
+6. IMG_12.jpg
+   MAE: 36.045
+   Predicted Count: 478.7
+   Ground Truth Count: 514.8
+   Original Count: 514
+
+7. IMG_316.jpg
+   MAE: 41.055
+   Predicted Count: 388.0
+   Ground Truth Count: 429.1
+   Original Count: 429
+
+8. IMG_40.jpg
+   MAE: 43.834
+   Predicted Count: 287.3
+   Ground Truth Count: 331.1
+   Original Count: 331
+
+9. IMG_74.jpg
+   MAE: 57.977
+   Predicted Count: 202.8
+   Ground Truth Count: 260.8
+   Original Count: 261
+
+10. IMG_75.jpg
+   MAE: 59.651
+   Predicted Count: 479.2
+   Ground Truth Count: 538.9
+   Original Count: 539
+

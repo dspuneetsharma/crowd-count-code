@@ -1,0 +1,62 @@
+Top 10 Best Performing Images (Lowest MAE)
+==================================================
+1. IMG_161.jpg
+   MAE: 0.026
+   Predicted Count: 48.0
+   Ground Truth Count: 48.0
+   Original Count: 48
+
+2. IMG_102.jpg
+   MAE: 0.038
+   Predicted Count: 70.0
+   Ground Truth Count: 70.0
+   Original Count: 70
+
+3. IMG_211.jpg
+   MAE: 0.048
+   Predicted Count: 51.0
+   Ground Truth Count: 51.0
+   Original Count: 51
+
+4. IMG_15.jpg
+   MAE: 0.111
+   Predicted Count: 57.1
+   Ground Truth Count: 57.0
+   Original Count: 57
+
+5. IMG_69.jpg
+   MAE: 0.119
+   Predicted Count: 94.9
+   Ground Truth Count: 95.0
+   Original Count: 95
+
+6. IMG_258.jpg
+   MAE: 0.172
+   Predicted Count: 55.2
+   Ground Truth Count: 55.0
+   Original Count: 55
+
+7. IMG_41.jpg
+   MAE: 0.217
+   Predicted Count: 32.2
+   Ground Truth Count: 32.0
+   Original Count: 32
+
+8. IMG_72.jpg
+   MAE: 0.244
+   Predicted Count: 54.2
+   Ground Truth Count: 54.0
+   Original Count: 54
+
+9. IMG_261.jpg
+   MAE: 0.259
+   Predicted Count: 183.7
+   Ground Truth Count: 184.0
+   Original Count: 184
+
+10. IMG_59.jpg
+   MAE: 0.270
+   Predicted Count: 48.3
+   Ground Truth Count: 48.0
+   Original Count: 48
+
